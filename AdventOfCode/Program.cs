@@ -9,7 +9,12 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day1.Part2());
+            //foreach (var row in Day3.instructions)
+            //{
+            //    Console.WriteLine(row);
+            //}
+
+            Console.WriteLine(Day3.Part2());
         }
     }
 }
